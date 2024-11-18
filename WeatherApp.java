@@ -7,7 +7,7 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 public class WeatherApp {
-    private static final String API_KEY = "41b7c2f8-5227-453f-a6c0-6ada8068064a"; // Ваш API ключ
+    private static final String API_KEY = ""; // Ваш API ключ
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
